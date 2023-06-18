@@ -1,8 +1,26 @@
 body {
-  background-color: greenyellow
+  background-color: midnightblue;
+  color: darkcyan;
+  text-align: center;
+  font-family: 'Monospace';
 }
 
-h1 {
-  color: darkcyan;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+h1, h2, h3 {
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+br {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+form {
+  color: white;
+  font-family: font-famGeorgia, 'Times New Roman', Times, serif;
+}
+
+label {
+  font-weight: bold;
+  color: white;
 }
